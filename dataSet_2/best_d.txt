@@ -1,0 +1,5 @@
+binding2's best_d: 1
+certificatesigningrequests2's best_d: 1
+nodes2's best_d: 1
+rolebindings2's best_d: 1
+roles2's best_d: 1

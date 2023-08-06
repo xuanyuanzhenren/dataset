@@ -1,0 +1,4 @@
+binding2's determined d=1
+certificatesigningrequests2's determined d=1
+nodes2's determined d=1
+rolebindings2's determined d=1
